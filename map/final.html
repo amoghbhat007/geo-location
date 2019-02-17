@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>M.A.P.S</title>
+    <link rel="icon" type="image/gif/png" href="logo2.png">
+    
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+	<script src="https://code.jquery.com/jquery-1.12.1.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.8.24/jquery-ui.min.js"></script>
+		
+    <link rel="stylesheet" href="leaflet.css" />
+    <script src="leaflet.js"></script>
+    <script src="map.js"></script>
+    
+
+    <script src="data/parks.json"></script>
+    <script src="data/toys.json"></script>
+    <script src="data/school.json"></script>
+    <script src="data/pedia.json"></script>
+    <script src="data/dayc.json"></script>
+    <script type="text/javascript" src="data/dialogue.js"></script>
+    <script type="text/javascript" src="icons/icons.js"></script>
+    
+    <script type="text/javascript" src="functions/search.js"></script>
+    <script type="text/javascript" src="functions/nearby.js"></script> 
+    <script type="text/javascript" src="functions/clean.js"></script> 
+    <script type="text/javascript" src="functions/findme.js"></script>
+    <script type="text/javascript" src="functions/about.js"></script> 
+    <script type="text/javascript" src="functions/weather.js"></script> 
+    <script type="text/javascript" src="functions/park.js"></script>
+    <script type="text/javascript" src="functions/toys.js"></script>
+    <script type="text/javascript" src="functions/schools.js"></script>  
+    <script type="text/javascript" src="functions/peds.js"></script>  
+    <script type="text/javascript" src="functions/dayc.js"></script>
+    <script type="text/javascript" src="functions/tags.js"></script>
+    <script src="functions/controlbar.js"></script>
+
+    <script src="dist/leaflet.customsearchbox.min.js"></script>
+    <script src="dist/L.Icon.Pulse.js"></script>
+    <link rel="stylesheet" href="dist/L.Icon.Pulse.css" />
+    <script src="dist/bouncemarker.js"></script>
+    <script src="dist/L.Polyline.SnakeAnim.js"></script>
+    <link href="dist/searchbox.min.css" rel="stylesheet"/>
+    <script src="dist/L.Control.Sidebar.js"></script>
+    <link rel="stylesheet" href="dist/L.Control.Sidebar.css" />
+    <link href="animap.css" rel="stylesheet"/>
+    <link href='dist/leaflet.fullscreen.css' rel='stylesheet' />
+    <script src='dist/Leaflet.fullscreen.min.js'></script>
+    <script src='https://code.responsivevoice.org/responsivevoice.js'></script>
+
+
+
+
+
+
+</head>
+<body>
+
+<div id="map-canvas" style="width: screen.width; height:645px;">
+    <div class="loader-frame" id="loader-frame">
+    <div class="loader1" id="loader1"></div>
+    <div class="loader2" id="loader2"></div>
+    </div>
+      
+    <div id="sidebar">
+        <style>
+            h1 {text-align:center;}
+            p {text-align:center;}
+        </style>
+        
+        <img src="logo.png"height=auto width=400px/>
+        <h1><br><br><b>Welcome to maps!</b></h1>
+        <p><br>An easy way to navigate around. </p>
+        
+    </div>
+
+</div>
+
+
+
+
+
+
+<script>
+    initMapJS();
+
+</script>
+
+
+</body>
+</html>
+

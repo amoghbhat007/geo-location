@@ -1,0 +1,53 @@
+
+.loader-frame
+{
+	width: 30px;
+	height: 30px;
+	position: fixed;
+}
+
+.loader1, .loader2
+{
+	position: absolute;
+	border: 5px solid transparent;
+	border-radius: 50%;
+	margin: 10px 678px   
+}
+
+.loader1
+{
+	width: 20px;
+	height: 20px;
+	border-top: 5px solid #00cfb5;
+	border-bottom: 5px solid #00cfb5;	
+	animation: clockwisespin 1s linear infinite;
+}
+
+.loader2
+{
+	width: 10px;
+	height: 10px;
+	border-top: 5px solid #FA4C4C;
+	border-bottom: 5px solid #FA4C4C ;
+	top: 5px; left: 5px;
+	animation: anticlockwisespin 1s  linear infinite;
+
+}
+
+
+
+
+@keyframes clockwisespin
+{
+	from{transform: rotate(0deg);}
+	to{transform: rotate(360deg);}
+}
+
+@keyframes anticlockwisespin
+{
+	from{transform: rotate(0deg);}
+	to{transform: rotate(-360deg);}
+}
+
+
+
