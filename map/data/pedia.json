@@ -1,0 +1,129 @@
+var pedis = [ 
+
+               		{"Name" : "Good Shepherd Healthcare Clinics",
+               		 "loc" : [ 15.495023 , 73.833793 ],
+               		 "Address" : "218 Gera Imperium Grand Opposite Ginger Hotel Near Passport Bhavan, Patto Centre, Panaji, Goa 403001",
+               		 "Image" : "data/Pediatricians/shepherd.jpg"
+               		},
+
+               		{"Name" : "Dr. Sushma P. Kirtani, Pediatrician",
+               		 "loc" : [ 15.497651 , 73.831007 ],
+               		 "Address" : "Rua Emídio Garcia, Altinho, Panaji, Goa 403001",
+               		 "Image" : "data/Pediatricians/sushma.jpg"
+               		},
+
+               		{"Name" : "Dr. Sushma P. Kirtani, Pediatrician",
+               		 "loc" : [ 15.497529 , 73.825730 ],
+               		 "Address" : "212, Mahalaxmi Chambers, 2nd Floor, 18th June Road, Altinho, Panaji, Goa 403001",
+               		 "Image" : "data/Pediatricians/sushma1.jpg"
+               		},
+	
+               		{"Name" : "Dr. S. Pinky Paliencar, Pediatrician",
+               		 "loc" : [ 15.481067 , 73.813349 ],
+               		 "Address" : "9/10, Kamat Complex, Caranzalem, Panaji, Goa 403002",
+               		 "Image" : "data/Pediatricians/pin.jpg"
+               		},
+
+               		{"Name" : "Dr Anjana's Children's Clinic",
+               		 "loc" : [ 15.487668 , 73.818589 ],
+               		 "Address" : "Ground Floor, Building No 2, Models Exotica, Santa Inez, St. Inez, Panaji, Goa 403001",
+               		 "Image" : "data/Pediatricians/anjana.jpg"
+               		},
+
+					{"Name" : "Manipal Fertility",
+               		 "loc" : [ 15.459776 , 73.813041 ],
+               		 "Address" : "A Block Ground Floor, Dr.E.Borges Road, Dona Paula, Panaji, Goa 403004",
+               		 "Image" : "data/Pediatricians/manipal.jpg"
+               		},               					 
+
+					{"Name" : "Dr. Eugene D'Silva, Gynecologist",
+               		 "loc" : [ 15.488810 , 73.818828 ],
+               		 "Address" : "CORNER, Mahatma Gandhi Road, Santa Inez, Panaji, Goa 403001",
+               		 "Image" : "data/Pediatricians/eugene.jpg"
+               		},                  		
+
+               		{"Name" : "Dr. Mrs. Jocelyn De Souza, Gynecologist",
+               		 "loc" : [ 15.490919 , 73.814574 ],
+               		 "Address" : "B-S/8, Campal Trade Centre, Behind Military Hospital, Opposite Kala Academy, Panjim, Goa, 403001",
+               		 "Image" : "data/Pediatricians/joyce.jpg"
+               		},                  		
+
+					{"Name" : "Dr Neha Tarna Khadpe, Gynecologist",
+               		 "loc" : [ 15.492891 , 73.820655 ],
+               		 "Address" : "1st Floor, Meera Building, Vasant Rao Dempo Marg, Opposite Gomantak Press, St.Inez, Altinho, Panaji, Goa 403001",
+               		 "Image" : "data/Pediatricians/neha.jpg"
+               		},                 		
+
+               		{"Name" : "Dr Anil S Sardesai, Gynecologist",
+               		 "loc" : [ 15.496118 , 73.826360 ],
+               		 "Address" : "Near Mahalaxmi Temple, Dada Vaidya Road, Altinho, Panaji, Goa 403001",
+               		 "Image" : "data/Pediatricians/anil.jpg"
+               		}, 
+
+               		{"Name" : "Dr. Mrs. Elvira Dias, Gynecologist",
+               		 "loc" : [ 15.499762 , 73.832597 ],
+               		 "Address" : "Rua São Tomé, Post Office Square, Patto Colony, Panaji, Goa 403001",
+               		 "Image" : "data/Pediatricians/elvis.jpg"
+               		}, 
+
+               		{"Name" : "Kenkre Dental Care",
+               		 "loc" : [ 15.499930 , 73.822297 ],
+               		 "Address" : "106, 1st Floor, Kamat Centre, Next To Dempo House, D B Road, Panaji, Goa, 403001",
+               		 "Image" : "data/Pediatricians/kenkre.jpg"
+               		}, 
+
+               		{"Name" : "Dr Parag Prabhudesai Dental Clinic and Implant Centre",
+               		 "loc" : [ 15.498437 , 73.826499 ],
+               		 "Address" : "1st Floor, 18th June Rd, Ozari, Panaji, Goa 403001",
+               		 "Image" : "data/Pediatricians/parag.jpg"
+               		}, 
+
+               		{"Name" : "Dr. Abhijit P. Sadekar, Dental Clinic",
+               		 "loc" : [ 15.499673 , 73.826407 ],
+               		 "Address" : "Shop No. 22, First Floor, Navelkar Trade Center,, opp. Azad Maidan,, MG Road,, Panaji, Goa 403001",
+               		 "Image" : "data/Pediatricians/abhijit.jpg"
+               		}, 
+
+               		{"Name" : "Dr. Dipti D. Dhume, Dental Clinic",
+               		 "loc" : [ 15.495558 , 73.821210 ],
+               		 "Address" : "Shop no.21, Ramakant Apartment, MG Road, Panaji, Goa 403001",
+               		 "Image" : "data/Pediatricians/dhume.jpg"
+               		},
+
+               		{"Name" : "Dr Deepa's Dental Care Clinic Goa",
+               		 "loc" : [ 15.493650 , 73.820775 ],
+               		 "Address" : "Shop No. G-3, Ground Floor, Emerald Towers, St Inez, Panjim, Altinho, Panaji, Goa 403001",
+               		 "Image" : "data/Pediatricians/deepa.jpg"
+               		},
+
+               		{"Name" : "Ora Care, Dental Clinic",
+               		 "loc" : [ 15.489053 , 73.820516 ],
+               		 "Address" : "Shop No. 14 & 15, Kamat Plaza, Av. Teófilo Braga, Behind St. Inez Church, Electricity Colony, Santa Inez, Panaji, Goa 403001",
+               		 "Image" : "data/Pediatricians/ora.jpg"
+               		},
+
+					{"Name" : "Dental Clinic & Orthodontic Centre",
+               		 "loc" : [ 15.495440 , 73.822901 ],
+               		 "Address" : "A-2, 1st Floor Building, Dr Atmaram Borkar Rd, Opp. Education Department, Governador, Pestana Rona, Ozari, Santa Inez, Panaji, Goa 403001",
+               		 "Image" : "data/Pediatricians/ortho.jpg"
+               		},               		
+
+               		{"Name" : "Kaisare Eye & Dental Hospital",
+               		 "loc" : [ 15.490526 , 73.832611 ],
+               		 "Address" : "B-1, First Floor, Jairam Complex, F7 – F10, Nevgi Nagar, Neugi Nagar, Panaji, Goa 403001",
+               		 "Image" : "data/Pediatricians/kaisare.jpg"
+               		},  
+
+					{"Name" : "Dr Rahul's Dental Care Center",
+               		 "loc" : [ 15.490591 , 73.833292 ],
+               		 "Address" : "Neugi Nagar, Panaji, Goa 403001",
+               		 "Image" : "data/Pediatricians/dental.png"
+               		},                		
+
+               		{"Name" : "Dr.Ulhas S Kaisare",
+               		 "loc" : [ 15.496376 , 73.825850 ],
+               		 "Address" : "Shivram Apartment, Dr A B Road, Near Mahalaxmi Temple, Panaji, Altinho, Goa, 403001",
+               		 "Image" : "data/Pediatricians/ukaisare.jpg"
+               		},    
+
+     ]

@@ -1,0 +1,74 @@
+	
+var school=[
+				{
+				"Name":"WOW KID'S PRESCHOOL",
+				"Address":"H.no 23/108, chidvilas Colony, Lourdes Wado, Taleigao, Santa Inez, Panaji, Goa 403003",
+				"loc":[15.486452, 73.818794],
+				"Image":"data/School/wow.png"
+				},{
+				"Name":"TINY FEET PRE PRIMARY SCHOOL",
+				"Address":"Miramar, Panaji, Goa 403001",
+				"loc":[15.480703, 73.814245],
+				"Image":"data/School/tiny.png"
+				},{
+				"Name":"SHARDA MANDIR SCHOOL",
+				"Address":"Dr Jack De Sequeira Rd, Miramar, Miramar, Panaji, Goa 403001",
+				"loc":[15.480579, 73.808838],
+				"Image":"data/School/sharda.png"
+				},{
+				"Name":"THE ROSARY SCHOOL",
+				"Address":"La Campala Colony, Santa Inez, Panaji, Goa 403001",
+				"loc":[15.484477, 73.813462],
+				"Image":"data/School/rosary.png"
+				},{
+				"Name":"Dr. K B Hedgewar Primary School",
+				"Address":"Mala, NGPDA Building, Dr .Dada Vaidya Rd, Panaji, Altinho, Panaji, Goa 403001",
+				"loc":[15.495726, 73.825950],
+				"Image":"data/School/hedgewar.png"
+				},{
+				"Name":"Seventh Day Adventist English School",
+				"Address":"Filipe Neri Xavier Road, Fontainhas, Altinho, Panaji, Goa 403001",
+				"loc":[15.494982, 73.830982],
+				"Image":"data/School/seventh.png"
+				},{
+				"Name":"Anjuman Nurul Islam Primary School",
+				"Address":"Corte-De-Oiteiro, Church Square, Altinho, Panaji, Goa 403001",
+				"loc":[15.498163, 73.829771],
+				"Image":"data/School/anjuman.png"
+				},{
+				"Name":"HAPPY KIDS",
+				"Address":"Shop No.T-2, Level 4, Near Fire Brigade, Caculo Mall, St Inez Rd, Santa Inez, Panaji, Goa 403001",
+				"loc":[15.486878, 73.817926],
+				"Image":"data/School/happy.png"
+				},{
+				"Name":"Don Bosco School",
+				"Address":"Don Bosco Campus Panjim, Panaji, Goa 403001",
+				"loc":[15.496626, 73.821610],
+				"Image":"data/School/bosco.png"
+				},{
+				"Name":"Mary Immaculate Girls' High School",
+				"Address":"Rua de Ourém, Mala, Patto Centre, Panaji, Goa 403001",
+				"loc":[15.497062, 73.831659],
+				"Image":"data/School/mary.png"
+				},{
+				"Name":"Kendriya Vidyalaya",
+				"Address":"Military Camp, Shivaji Nagar, Bambolim, Goa 403201",
+				"loc":[15.472769, 73.865905],
+				"Image":"data/School/kv.png"
+				},{
+				"Name":"The Progress High School",
+				"Address":"Rua José Falcão, Altinho, Panaji, Goa 403001",
+				"loc":[15.500250, 73.829000],
+				"Image":"data/School/prog.png"
+				},{
+				"Name":"People's High School",
+				"Address":"Rua de Ourém, Mala, Panaji, Goa 403001",
+				"loc":[15.495173, 73.831704],
+				"Image":"data/School/people.png"
+				},{
+				"Name":"St Anthony's High School",
+				"Address":"Panaji, Mazorda Goa, Panaji, Altinho, Goa, 403001",
+				"loc":[15.495778, 73.825159],
+				"Image":"data/School/st.png"
+				}
+				]

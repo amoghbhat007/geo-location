@@ -1,0 +1,116 @@
+var toys=[
+{
+	"Name":"Walkover",
+	"Address":"Trionara Apartments Area Road Opposite Muncipal Market, Near Navtara Restaurant, Municipal Market Area,, Ozari, Panaji, Goa 403001",
+	"loc":[15.499491, 73.823246],
+	"Image":"data/Toys/wlkty.jpg"
+},
+{
+	"Name":"Karmally's The Super Toy Store",
+	"Address":"Karmally Glass Towers Swami Vivekanand Road, Next To Geeta Bakery Opp Panjim Traffic Cell, Panaji, Goa 403001",
+	"loc":[15.499284, 73.824268],
+	"Image":"data/Toys/kllyty.jpg"
+},
+{
+	"Name":"Nilesh Stores The Toy Store",
+	"Address":"Opp/Cafe Coffee Day India, MG Road, Panaji, Goa 403001",
+	"loc":[15.500535, 73.827801],
+	"Image":"data/Toys/nilty.jpg"
+},
+{
+	"Name":"Superkids",
+	"Address":"shop no. 7, kamat chambers, Dr Braganza Pereira Rd, Altinho, Panaji, Goa 403001",
+	"loc":[15.497964, 73.826636],
+	"Image":"data/Toys/supty.jpg"
+},
+{
+	"Name":"Happy Kids",
+	"Address":"Shop No.T-2, Level 4, Near Fire Brigade, Caculo Mall, St Inez Rd, Santa Inez, Panaji, Goa 403001",
+	"loc":[15.486535, 73.817993],
+	"Image":"data/Toys/hppty.jpg"
+},
+{
+	"Name":"Manerkar Enterprises",
+	"Address":"Pinto Chambers, Menezes Bragança Rd, Ozari, Panaji, Goa 403001",
+	"loc":[15.498192, 73.825310],
+	"Image":"data/Toys/mnty.jpg"
+},
+{
+	"Name":"Archiesonline",
+	"Address":"Shop No. 10,, Junta House, 18th June Road, Panaji, GOA, Goa 403001",
+	"loc":[15.494463, 73.819938],
+	"Image":"data/Toys/aronty.jpg"
+},
+{
+	"Name":"Little Treasures",
+	"Address":"28 & 29, Block A, Tambdi Mati, St. Inez, Kamat Arcade, Santa Inez, Panaji, Goa 403001",
+	"loc":[15.486993, 73.820673],
+	"Image":"data/Toys/ltty.jpg"
+},
+{
+	"Name":"Archies",
+	"Address":"Caculo Enclave, Caculo Mall, Opp. Goa Fire Service Head Quarters, Santa Inez, Panaji, Goa 403001",
+	"loc":[15.486491, 73.817727],
+	"Image":"data/Toys/arch.jpg"
+},
+{
+	"Name":"Melange The One Stop Shop",
+	"Address":"Shop no 5 Sabnis Monarch ll, Kerant, Caranzalem, Panaji, Goa 403002",
+	"loc":[15.474488, 73.812042],
+	"Image":"data/Toys/melty.jpg"
+},
+{
+	"Name":"Toy Land",
+	"Address":"Shabana Chambers, Municipal Market Road, Municipal Market, Altinho, Panaji, Goa 403001",
+	"loc":[15.499158, 73.822634],
+	"Image":"data/Toys/tlnd.jpg"
+},
+{
+	"Name":"K.G.N. Gift Center",
+	"Address":"Caetano de Albuquerque Rd, Opp. Vaidiya Hospita, Near Municipal Market, Altinho, Panaji, Goa 403001",
+	"loc":[15.498092, 73.822055],
+	"Image":"data/Toys/kgn.jpg"
+},
+{
+	"Name":"Sankhalkar & Sons Toys",
+	"Address":"Gs-2, Rani Pramila Arcade, 18th June Rd, Altinho, Panaji, Goa 403001",
+	"loc":[15.497784, 73.826570],
+	"Image":"data/Toys/san.jpg"
+},
+{
+	"Name":"Just Toys",
+	"Address":"SHOP NO 11, Market Road, Panjim, Goa - 403001, NEAR MUNICIPAL MARKET",
+	"loc":[15.499177, 73.822526],
+	"Image":"data/Toys/jst.jpg"
+},
+{
+	"Name":"Rock And Raaga",
+	"Address":"25, Rizvi Towers, Caculo Island, Near Goa College of Pharmacy, Santa Inez, Panjim, Goa 403002",
+	"loc":[15.494887, 73.820775],
+	"Image":"data/Toys/rnr.jpg"
+},
+{
+	"Name":"Hallmark Cards & Gifts",
+	"Address":"Shop No 10, Kamat Mansion, Miramar, Near Dhempe College, Miramar, Goa, 403001",
+	"loc":[15.481591, 73.810822],
+	"Image":"data/Toys/hlmk.jpg"
+},
+{
+	"Name":"Shravan Toys Shop",
+	"Address":"18th June Road, Panjim, Goa - 403001",
+	"loc":[15.496368, 73.823537],
+	"Image":"data/Toys/stsp.jpg"
+},
+{
+	"Name":"Afzal Store",
+	"Address":"Shop No 3, Municipal Market Road, Panjim, Goa - 403001, Municipal Market",
+	"loc":[15.498582, 73.821688],
+	"Image":"data/Toys/afsp.jpg"
+},
+{
+	"Name":"Party On",
+	"Address":"Rua José Falcão, Near Panjim Church Square, Altinho, Panaji, Goa 403001",
+	"loc":[15.498838, 73.828825],
+	"Image":"data/Toys/ponty.jpg"
+}
+];

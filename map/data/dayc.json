@@ -1,0 +1,52 @@
+var dayc= [
+
+           {"Name" : "Asha Deep Day Care Shelter Project of El Shaddai Charitable Trust", 
+           	"loc" : [ 15.497131 , 73.825150 ],
+           	"Address" : "Above Jawed Habib, Akbarally Bldg, Swami Vivekanand Road,, 18th June Rd, Altinho, Panaji, Goa 403001",
+           	"Image" : "data/Dayc/el.png" 
+			},
+
+			{"Name" : "Cantaloupe Childcare", 
+           	"loc" : [ 15.484586 , 73.812189 ],
+           	"Address" : "#779 Rd no. 3, St Mary Colony, Miramar,, St Mary Colony, Miramar, Panaji, Goa 403001",
+           	"Image" : "data/Dayc/child.jpg" 
+			},
+
+			{"Name" : "Kaleidoscope of Life", 
+           	"loc" : [ 15.476158 , 73.811540 ],
+           	"Address" : "above SBI Bank ,Caranzalem, Atlantis 1 , flat 204, Tonca, Caranzalem, Panaji, Goa 403002",
+           	"Image" : "data/Dayc/cal.jpg" 
+			},
+
+			{"Name" : "Kids Castle", 
+           	"loc" : [ 15.486647 , 73.811460 ],
+           	"Address" : "Palmgrove Apartment, Youth Hostel Road, Miramar, Goa-403001",
+           	"Image" : "data/Dayc/kids.jpg" 
+			},
+
+			{"Name" : "Bachpan A Play School", 
+           	"loc" : [ 15.456486 , 73.809833 ],
+           	"Address" : "A-9, Ocean Park Colony, Dona Paula, Taleigao, Panaji, Goa-403001",
+           	"Image" : "data/Dayc/bach.jpg" 
+			},
+
+			{"Name" : "Busy Bugs", 
+           	"loc" : [ 15.476678 , 73.812419 ],
+           	"Address" : "Supreme, Opp HDFC Bank, Caranzalem, Panaji, Goa 403002",
+           	"Image" : "data/Dayc/bugs.jpg" 
+			},			
+
+			
+			{"Name" : "Tiny Tots", 
+           	"loc" : [ 15.486829 , 73.831325 ],
+           	"Address" : "Av. Teófilo Braga, Electricity Colony, Altinho, Panaji, Goa 403001",
+           	"Image" : "data/Dayc/tots.jpg" 
+			},	
+
+			{"Name" : "Maple Bear Canadian Pre-School, Dona Paula", 
+           	"loc" : [ 15.458914 , 73.812336 ],
+           	"Address" : "Dr. E. Borges Road, On Main Road, Opposite Manipal Hospital, Near Hotel Cidade de Goa, Dona Paula, Panaji, Goa 403004",
+           	"Image" : "data/Dayc/can.jpg" 
+			},						
+
+           ]
